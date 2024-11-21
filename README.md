@@ -1,7 +1,7 @@
 
 # Silent Knight - Text-Based Adventure Game
 
-This repository showcases the implementation of **Silent Knight**, a text-based adventure game developed as part of a **Data Structures course assignment (BLG223E)**. The game leverages **Stack data structures** and the **Depth-First Search (DFS)** algorithm to navigate through a decision tree, simulating a no-input gameplay experience.
+This repository showcases the implementation of **Silent Knight**, a text-based adventure game developed as a personal work for a **Data Structures course (BLG223E)**. The game leverages **Stack data structures** and the **Depth-First Search (DFS)** algorithm to navigate through a decision tree, simulating a no-input gameplay experience.
 
 ## Game Description
 
@@ -34,7 +34,6 @@ This repository showcases the implementation of **Silent Knight**, a text-based 
 - `game.cpp`: Contains the main game logic with DFS implementation.
 - `doublelinklist.h`: Custom implementation of a doubly linked list.
 - `objects.h`: Game objects and their behavior definitions.
-- `game_initial.cpp`, `objects_initial.h`, `doublelinklist_initial.h`: Initial template files for reference.
 
 ### Compilation and Execution
 - **Environment**: The code is compatible with Ubuntu and compiled using the default `g++` compiler.
